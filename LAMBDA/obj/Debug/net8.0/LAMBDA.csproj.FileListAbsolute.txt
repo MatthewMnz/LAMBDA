@@ -1,0 +1,14 @@
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\bin\Debug\net8.0\LAMBDA.exe
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\bin\Debug\net8.0\LAMBDA.deps.json
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\bin\Debug\net8.0\LAMBDA.runtimeconfig.json
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\bin\Debug\net8.0\LAMBDA.dll
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\bin\Debug\net8.0\LAMBDA.pdb
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\obj\Debug\net8.0\LAMBDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\obj\Debug\net8.0\LAMBDA.AssemblyInfoInputs.cache
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\obj\Debug\net8.0\LAMBDA.AssemblyInfo.cs
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\obj\Debug\net8.0\LAMBDA.csproj.CoreCompileInputs.cache
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\obj\Debug\net8.0\LAMBDA.dll
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\obj\Debug\net8.0\refint\LAMBDA.dll
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\obj\Debug\net8.0\LAMBDA.pdb
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\obj\Debug\net8.0\LAMBDA.genruntimeconfig.cache
+C:\Users\matta\source\repos\LAMBDA\LAMBDA\obj\Debug\net8.0\ref\LAMBDA.dll
