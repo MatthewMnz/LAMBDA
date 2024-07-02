@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matta\\source\\repos\\LAMBDA\\LAMBDA\\LAMBDA.csproj": {}
+    "C:\\Users\\matta\\OneDrive\\Desktop\\LAMBDA\\LAMBDA\\LAMBDA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matta\\source\\repos\\LAMBDA\\LAMBDA\\LAMBDA.csproj": {
+    "C:\\Users\\matta\\OneDrive\\Desktop\\LAMBDA\\LAMBDA\\LAMBDA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matta\\source\\repos\\LAMBDA\\LAMBDA\\LAMBDA.csproj",
+        "projectUniqueName": "C:\\Users\\matta\\OneDrive\\Desktop\\LAMBDA\\LAMBDA\\LAMBDA.csproj",
         "projectName": "LAMBDA",
-        "projectPath": "C:\\Users\\matta\\source\\repos\\LAMBDA\\LAMBDA\\LAMBDA.csproj",
+        "projectPath": "C:\\Users\\matta\\OneDrive\\Desktop\\LAMBDA\\LAMBDA\\LAMBDA.csproj",
         "packagesPath": "C:\\Users\\matta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matta\\source\\repos\\LAMBDA\\LAMBDA\\obj\\",
+        "outputPath": "C:\\Users\\matta\\OneDrive\\Desktop\\LAMBDA\\LAMBDA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
